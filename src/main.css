@@ -1,0 +1,27 @@
+
+.navbar{
+    width:100%;
+    background-color: black;
+    color:white;
+    
+}
+ul{
+    margin:0;
+    display: flex;
+    padding: 15px;
+    list-style: none;
+}
+li{
+    padding: 0 10px;
+}
+ul a{
+    color:white;
+    text-decoration: none;
+}
+.links a{
+    color:black;
+    text-decoration: none;
+}
+.links a:hover{
+    color:black;
+}
